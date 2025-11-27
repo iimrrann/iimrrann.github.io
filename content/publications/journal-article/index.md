@@ -30,7 +30,7 @@ abstract: The rapid proliferation of fake news across digital platforms threaten
  chical fusion, and a novel Dynamic Tensor Fusion mechanism. Pre-trained encoders—CLIP for text and ViT/CLIP
  for images—serve as modality backbones, while fusion modules integrate their representations for fine-grained 6-way
  classification covering satire, false connection, manipulated, misleading, imposter content, and true news. Experimental
- results demonstrate that Dynamic Tensor Fusion achieves the strongest performance (Accuracy: 87.92%, Macro F1:
+ results demonstrate that Dynamic Tensor Fusion achieves the strongest performance (Accuracy- 87.92%, Macro F1- 
  87.79%), surpassing the widely used BERT + ResNet-50 benchmark on Fakeddit by +2% absolute accuracy. Cross-
  dataset validation on our curated FakeThroughPrism benchmark further confirms the robustness of cross-attention and
  tensor-based models, though challenges remain in transferability. The findings highlight that carefully designed fusion
