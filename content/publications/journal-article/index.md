@@ -1,5 +1,5 @@
 ---
-title: "Beyond Binary: Multimodal Fusion for Fine-Grained Fake News Classification and Benchmarking""
+title: "Beyond Binary: Multimodal Fusion for Fine-Grained Fake News Classification and Benchmarking"
 authors:
 -  Md. Imran Khan
 -  Dr. Ahmed wasif Reza
